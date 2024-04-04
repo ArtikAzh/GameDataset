@@ -1,5 +1,6 @@
 # GameDataset
 1.	Источники данных
+
 •	https://gamejolt.com/
  
 •	https://store.steampowered.com/
